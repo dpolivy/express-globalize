@@ -1,7 +1,7 @@
 {
   "name": "express-globalize",
   "description": "Express middleware to integrate i18n functionality from jQuery Globalize.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/dpolivy/express-globalize",
   "bugs": "https://github.com/dpolivy/express-globalize/issues",
   "license": "MIT",
@@ -17,7 +17,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "cldrjs": "^0.4.0",
+    "cldrjs": "^0.5.0",
     "globalize": "^1.0.0"
   },
   "devDependencies": {
@@ -25,7 +25,7 @@
     "should": "^7.0.2"
   },
   "peerDependencies": {
-    "cldr-data": "^27.0.5"
+    "cldr-data": ">=34"
   },
   "engines": {
     "node": ">= 0.10.0"

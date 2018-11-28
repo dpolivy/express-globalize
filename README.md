@@ -90,6 +90,10 @@ the supported methods, please see the [Globalize API documentation](https://gith
 
 ## History ##
 
+**v0.1.1**
+- Fix issue with properties that may not exist
+- Update dependency versions
+
 **v0.1.0**
 - Initial release
 
