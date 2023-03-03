@@ -24,7 +24,7 @@
     "globalize": "^1.5.0"
   },
   "devDependencies": {
-    "cldr-data": ">=36.0.0",
+    "cldr-data": ">=36.0.1",
     "globalize-compiler": "^1.1.1",
     "mocha": "^8.0.0",
     "should": "^13.2.3"
